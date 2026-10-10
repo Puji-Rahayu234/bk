@@ -3,7 +3,7 @@
    Isi GAS_URL dengan URL Web App (/exec) dari Google Apps Script
    ========================================================== */
 window.BK_CONFIG = {
-  GAS_URL: 'https://script.google.com/macros/s/AKfycbxNTXWzq4Pox6XTB_on_LWq6Df6qe_WuSK5TlxYACh9gjtMTlZGPsdDXxbnUMoQIiFjDQ/exec',
+  GAS_URL: 'https://script.google.com/macros/s/AKfycbzTLrmt4nbebcHE2cnE9CD2QyBkPRkWHfDr9UYTG4aE_AoUvWIZj5ZpeyAzFSpRVpIT-w/exec',
   LOGO: 'assets/logo.svg',          // ganti ke 'assets/logo.png' bila Anda memakai logo sendiri
   NAMA_SEKOLAH: 'SMA Negeri 6 Palangka Raya',
   NAMA_APP: 'Buku Tamu BK SMAN 6 Palangka Raya',
